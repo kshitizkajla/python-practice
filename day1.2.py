@@ -3,5 +3,3 @@ def Hello(to="world"):
 Hello()
 Name = input("What's your Name? ").strip().title()
 Hello(Name)
-
-
