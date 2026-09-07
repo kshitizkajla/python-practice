@@ -6,4 +6,3 @@ elif (x < y):
     print("y is greater than x ")
 else:
     print("both are equal ")
-    
