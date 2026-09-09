@@ -1,7 +1,7 @@
 while True:
     try:
         x = int(input("What's x? "))
-    except:
+    except ValueError:
         print("xx is not an integer")
     else:
         break
